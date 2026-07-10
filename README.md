@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/0007aadil/dsa-vault/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0007aadil/dsa-vault/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/0007aadil/dsa-vault/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/0007aadil/dsa-vault/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/0007aadil/dsa-vault/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/0007aadil/dsa-vault/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/0007aadil/dsa-vault/tree/master/0075-sort-colors) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/0007aadil/dsa-vault/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0007aadil/dsa-vault/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/0007aadil/dsa-vault/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/0007aadil/dsa-vault/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/0007aadil/dsa-vault/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
