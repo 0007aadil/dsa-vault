@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/0007aadil/dsa-vault/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/0007aadil/dsa-vault/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/0007aadil/dsa-vault/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/0007aadil/dsa-vault/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/0007aadil/dsa-vault/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/0007aadil/dsa-vault/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0007aadil/dsa-vault/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/0007aadil/dsa-vault/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/0007aadil/dsa-vault/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0007aadil/dsa-vault/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/0007aadil/dsa-vault/tree/master/0073-set-matrix-zeroes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0007aadil/dsa-vault/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
