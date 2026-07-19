@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/0007aadil/dsa-vault/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/0007aadil/dsa-vault/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/0007aadil/dsa-vault/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/0007aadil/dsa-vault/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/0007aadil/dsa-vault/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0007aadil/dsa-vault/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/0007aadil/dsa-vault/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/0007aadil/dsa-vault/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/0007aadil/dsa-vault/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/0007aadil/dsa-vault/tree/master/0704-binary-search) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0007aadil/dsa-vault/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
