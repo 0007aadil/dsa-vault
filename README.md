@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/0007aadil/dsa-vault/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/0007aadil/dsa-vault/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/0007aadil/dsa-vault/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/0007aadil/dsa-vault/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/0007aadil/dsa-vault/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/0007aadil/dsa-vault/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/0007aadil/dsa-vault/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/0007aadil/dsa-vault/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/0007aadil/dsa-vault/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/0007aadil/dsa-vault/tree/master/0287-find-the-duplicate-number) |
