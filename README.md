@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/0007aadil/dsa-vault/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/0007aadil/dsa-vault/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/0007aadil/dsa-vault/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/0007aadil/dsa-vault/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/0007aadil/dsa-vault/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/0007aadil/dsa-vault/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/0007aadil/dsa-vault/tree/master/0056-merge-intervals) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/0007aadil/dsa-vault/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/0007aadil/dsa-vault/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/0007aadil/dsa-vault/tree/master/0287-find-the-duplicate-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0007aadil/dsa-vault/tree/master/3532-path-existence-queries-in-a-graph-i) |
