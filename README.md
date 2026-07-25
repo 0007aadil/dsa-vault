@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/0007aadil/dsa-vault/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/0007aadil/dsa-vault/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/0007aadil/dsa-vault/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/0007aadil/dsa-vault/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/0007aadil/dsa-vault/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/0007aadil/dsa-vault/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/0007aadil/dsa-vault/tree/master/0056-merge-intervals) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/0007aadil/dsa-vault/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/0007aadil/dsa-vault/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0007aadil/dsa-vault/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/0007aadil/dsa-vault/tree/master/0509-fibonacci-number) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/0007aadil/dsa-vault/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/0007aadil/dsa-vault/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/0007aadil/dsa-vault/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/0007aadil/dsa-vault/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/0007aadil/dsa-vault/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/0007aadil/dsa-vault/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/0007aadil/dsa-vault/tree/master/0287-find-the-duplicate-number) |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/0007aadil/dsa-vault/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/0007aadil/dsa-vault/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/0007aadil/dsa-vault/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
