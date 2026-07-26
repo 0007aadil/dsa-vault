@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/0007aadil/dsa-vault/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/0007aadil/dsa-vault/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/0007aadil/dsa-vault/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/0007aadil/dsa-vault/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/0007aadil/dsa-vault/tree/master/1288-remove-covered-intervals) |
 ## Dynamic Programming
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0007aadil/dsa-vault/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/0007aadil/dsa-vault/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/0007aadil/dsa-vault/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/0007aadil/dsa-vault/tree/master/0560-subarray-sum-equals-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0007aadil/dsa-vault/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0007aadil/dsa-vault/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/0007aadil/dsa-vault/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/0007aadil/dsa-vault/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
