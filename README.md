@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/0007aadil/dsa-vault/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/0007aadil/dsa-vault/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/0007aadil/dsa-vault/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/0007aadil/dsa-vault/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/0007aadil/dsa-vault/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/0007aadil/dsa-vault/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/0007aadil/dsa-vault/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
