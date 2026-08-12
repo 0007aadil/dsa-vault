@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/0007aadil/dsa-vault/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/0007aadil/dsa-vault/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/0007aadil/dsa-vault/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/0007aadil/dsa-vault/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/0007aadil/dsa-vault/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/0007aadil/dsa-vault/tree/master/0567-permutation-in-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0007aadil/dsa-vault/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/0007aadil/dsa-vault/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/0007aadil/dsa-vault/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/0007aadil/dsa-vault/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/0007aadil/dsa-vault/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/0007aadil/dsa-vault/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/0007aadil/dsa-vault/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/0007aadil/dsa-vault/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -174,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/0007aadil/dsa-vault/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/0007aadil/dsa-vault/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/0007aadil/dsa-vault/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
