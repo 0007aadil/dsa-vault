@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/0007aadil/dsa-vault/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/0007aadil/dsa-vault/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/0007aadil/dsa-vault/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/0007aadil/dsa-vault/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/0007aadil/dsa-vault/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/0007aadil/dsa-vault/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0007aadil/dsa-vault/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/0007aadil/dsa-vault/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/0007aadil/dsa-vault/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/0007aadil/dsa-vault/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/0007aadil/dsa-vault/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0007aadil/dsa-vault/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/0007aadil/dsa-vault/tree/master/1392-longest-happy-prefix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/0007aadil/dsa-vault/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
