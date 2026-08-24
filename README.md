@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/0007aadil/dsa-vault/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/0007aadil/dsa-vault/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/0007aadil/dsa-vault/tree/master/1288-remove-covered-intervals) |
+| [1552-magnetic-force-between-two-balls](https://github.com/0007aadil/dsa-vault/tree/master/1552-magnetic-force-between-two-balls) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0007aadil/dsa-vault/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/0007aadil/dsa-vault/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/0007aadil/dsa-vault/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/0007aadil/dsa-vault/tree/master/1288-remove-covered-intervals) |
+| [1552-magnetic-force-between-two-balls](https://github.com/0007aadil/dsa-vault/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/0007aadil/dsa-vault/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/0007aadil/dsa-vault/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/0007aadil/dsa-vault/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/0007aadil/dsa-vault/tree/master/1552-magnetic-force-between-two-balls) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0007aadil/dsa-vault/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
