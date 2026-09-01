@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/0007aadil/dsa-vault/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/0007aadil/dsa-vault/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/0007aadil/dsa-vault/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/0007aadil/dsa-vault/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/0007aadil/dsa-vault/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/0007aadil/dsa-vault/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/0007aadil/dsa-vault/tree/master/1552-magnetic-force-between-two-balls) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/0007aadil/dsa-vault/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/0007aadil/dsa-vault/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/0007aadil/dsa-vault/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/0007aadil/dsa-vault/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/0007aadil/dsa-vault/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/0007aadil/dsa-vault/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/0007aadil/dsa-vault/tree/master/1552-magnetic-force-between-two-balls) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/0007aadil/dsa-vault/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/0007aadil/dsa-vault/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/0007aadil/dsa-vault/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/0007aadil/dsa-vault/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -283,4 +286,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/0007aadil/dsa-vault/tree/master/2596-check-knight-tour-configuration) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/0007aadil/dsa-vault/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/0007aadil/dsa-vault/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/0007aadil/dsa-vault/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/0007aadil/dsa-vault/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/0007aadil/dsa-vault/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
