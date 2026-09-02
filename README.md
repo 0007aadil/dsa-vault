@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/0007aadil/dsa-vault/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/0007aadil/dsa-vault/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/0007aadil/dsa-vault/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/0007aadil/dsa-vault/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/0007aadil/dsa-vault/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0007aadil/dsa-vault/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/0007aadil/dsa-vault/tree/master/0128-longest-consecutive-sequence) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/0007aadil/dsa-vault/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/0007aadil/dsa-vault/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/0007aadil/dsa-vault/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/0007aadil/dsa-vault/tree/master/0287-find-the-duplicate-number) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/0007aadil/dsa-vault/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/0007aadil/dsa-vault/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/0007aadil/dsa-vault/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/0007aadil/dsa-vault/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/0007aadil/dsa-vault/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/0007aadil/dsa-vault/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
