@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/0007aadil/dsa-vault/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/0007aadil/dsa-vault/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/0007aadil/dsa-vault/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/0007aadil/dsa-vault/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2596-check-knight-tour-configuration](https://github.com/0007aadil/dsa-vault/tree/master/2596-check-knight-tour-configuration) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/0007aadil/dsa-vault/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/0007aadil/dsa-vault/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/0007aadil/dsa-vault/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/0007aadil/dsa-vault/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/0007aadil/dsa-vault/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/0007aadil/dsa-vault/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/0007aadil/dsa-vault/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/0007aadil/dsa-vault/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2596-check-knight-tour-configuration](https://github.com/0007aadil/dsa-vault/tree/master/2596-check-knight-tour-configuration) |
 ## Interactive
 |  |
