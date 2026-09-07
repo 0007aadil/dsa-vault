@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/0007aadil/dsa-vault/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/0007aadil/dsa-vault/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/0007aadil/dsa-vault/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
