@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/0007aadil/dsa-vault/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/0007aadil/dsa-vault/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/0007aadil/dsa-vault/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/0007aadil/dsa-vault/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/0007aadil/dsa-vault/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/0007aadil/dsa-vault/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/0007aadil/dsa-vault/tree/master/0142-linked-list-cycle-ii) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/0007aadil/dsa-vault/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/0007aadil/dsa-vault/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/0007aadil/dsa-vault/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/0007aadil/dsa-vault/tree/master/0142-linked-list-cycle-ii) |
