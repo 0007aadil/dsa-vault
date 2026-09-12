@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/0007aadil/dsa-vault/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/0007aadil/dsa-vault/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/0007aadil/dsa-vault/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/0007aadil/dsa-vault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1392-longest-happy-prefix](https://github.com/0007aadil/dsa-vault/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/0007aadil/dsa-vault/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/0007aadil/dsa-vault/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/0007aadil/dsa-vault/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/0007aadil/dsa-vault/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/0007aadil/dsa-vault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/0007aadil/dsa-vault/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
