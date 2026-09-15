@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/0007aadil/dsa-vault/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/0007aadil/dsa-vault/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/0007aadil/dsa-vault/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/0007aadil/dsa-vault/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/0007aadil/dsa-vault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/0007aadil/dsa-vault/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/0007aadil/dsa-vault/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/0007aadil/dsa-vault/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/0007aadil/dsa-vault/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/0007aadil/dsa-vault/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
