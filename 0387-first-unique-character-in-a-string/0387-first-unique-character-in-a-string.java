@@ -1,28 +1,38 @@
 class Solution {
     public int firstUniqChar(String s) {
 
-        int[] arr = new int[26];
 
-        for ( int i = 0 ; i < s.length(); i++){
-            char c = s.charAt(i);
+        Deque<Integer> q = new ArrayDeque<>();
+        HashMap<Character , Integer > map = new HashMap<>();
 
-           arr[c - 'a']++;
+        for ( int i = 0 ; i < s.length() ; i++){
+
+            char c  = s.charAt(i);
+
+            map.put( c , map.getOrDefault(c,0) + 1);
+
+
         }
 
+        
 
+        for ( int i = 0 ; i < s.length() ; i++){
 
-        for ( int i = 0 ; i< s.length(); i++){
+            char c = s.charAt(i);
 
-            char k = s.charAt(i);
-
-
-            if ( arr[k - 'a'] == 1  ){
-                return i ;
+            int val = map.get(c);
+            if( val < 2){
+                q.offer(i);
             }
         }
 
+        if(q.isEmpty()) return -1 ; 
 
-        return -1 ;
+        int ans = q.poll();
+
+        return ans ;
+
+
         
     }
 }
