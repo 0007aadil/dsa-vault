@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/0007aadil/dsa-vault/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/0007aadil/dsa-vault/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/0007aadil/dsa-vault/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/0007aadil/dsa-vault/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/0007aadil/dsa-vault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/0007aadil/dsa-vault/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/0007aadil/dsa-vault/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/0007aadil/dsa-vault/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/0007aadil/dsa-vault/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -353,4 +355,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/0007aadil/dsa-vault/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/0007aadil/dsa-vault/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/0007aadil/dsa-vault/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/0007aadil/dsa-vault/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
